@@ -39,7 +39,7 @@ Backend & Languages
 <p>
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
 Databases & DevOps
@@ -47,7 +47,7 @@ Databases & DevOps
 <p>
 <img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Windows"/>
+<img src="https://img.shields.io/badge/WINDOWS-FCC624?style=for-the-badge&logo=windows&logoColor=black" alt="Windows"/>
 </p>
 
 📊 GitHub Stats
