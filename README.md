@@ -51,7 +51,7 @@ Backend & Languages
  
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com/?user=EverardoSegundo&hide_border=true&background=161222&ring=FF4081&fire=FF4081&currStreakNum=FFD43B&sideNums=FF4081&currStreakLabel=FFD43B&sideLabels=FF4081&dates=9BE9F0" alt="GitHub Contribution Streak"/>
+ 
 
 <br/><br/>
 
