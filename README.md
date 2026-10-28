@@ -52,7 +52,7 @@ Backend & Languages
 <img height="180" src="https://github-readme-stats.vercel.app/api? />
 </a>
 <a href="https://github.com/EverardoSegundo">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EverardoSegundo&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most Used Languages"/>
+ 
 </a>
  
 
