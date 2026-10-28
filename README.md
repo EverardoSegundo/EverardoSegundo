@@ -1,3 +1,4 @@
+ 
  EverardoSegundo — GitHub Profile
 
 <!-- HEADER: banner ondulado verde e amarelo -->
@@ -9,7 +10,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:286B43,50:50713E,
 alt="EverardoSegundo"
 />
 
-<h3>Full-Stack Developer | Scientific Researcher | Computer Engineering Student</h3>
+<h3>Back-End Developer |  Computer Engineering Student</h3>
 
 <a href="https://github.com/EverardoSegundo">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -17,7 +18,7 @@ alt="EverardoSegundo"
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:SEU-EMAIL">
+<a href="mailto:segundorei30@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-E74C3C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </div>
@@ -26,25 +27,15 @@ alt="EverardoSegundo"
 
 🧑‍💻 About Me
 
-I am a Full-Stack Developer and Researcher based in São Luís, Brazil. Currently pursuing a degree in Computer Engineering at UEMA.
+I am a Back-End Developer and Researcher based in São Luís, Brazil. Currently pursuing a degree in Computer Engineering at UEMA.
 
-My focus lies in building scalable solutions for Geoprocessing, Public Health, and Education. I bridge the gap between academic research and market-ready software, with a strong emphasis on code quality, software architecture, and technical leadership.
+My focus lies in building scalable solutions for companies. I bridge the gap between academic research and market-ready software, with a strong emphasis on code quality, software architecture, and technical leadership.
 
 🔬 Scientific research and technology.
-🌎 Geoprocessing and geographic information systems.
-🏥 Technology solutions for public health.
-🎓 Software for education and knowledge sharing.
-💻 Full-stack development and software architecture.
-🛠️ Tech Stack
-Frontend & Mobile
+💻 Back-End development and software architecture.
+ 
 
-<p>
-<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/REACT_NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-</p>
+ 
 
 Backend & Languages
 
@@ -97,7 +88,7 @@ Databases & DevOps
 
 </div>
 
-Explore my repositories to discover projects involving software development, scientific research, geoprocessing, and technology for social impact.
+Explore my repositories to discover projects involving software development.
 
 <div align="center">
 
