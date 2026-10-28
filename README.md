@@ -27,11 +27,11 @@ alt="EverardoSegundo"
 
 🧑‍💻 About Me
 
-I am a Back-End Developer and Researcher based in São Luís, Brazil. Currently pursuing a degree in Computer Engineering at UEMA.
+I am a Back-End Developer based in São Luís, Brazil. Currently pursuing a degree in Computer Engineering at UEMA.
 
 My focus lies in building scalable solutions for companies. I bridge the gap between academic research and market-ready software, with a strong emphasis on code quality, software architecture, and technical leadership.
 
-🔬 Scientific research and technology.
+ 
 💻 Back-End development and software architecture.
  
 
