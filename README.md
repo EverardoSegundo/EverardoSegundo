@@ -42,13 +42,7 @@ Backend & Languages
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
-Databases & DevOps
-
-<p>
-<img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/WINDOWS-FCC624?style=for-the-badge&logo=windows&logoColor=black" alt="Windows"/>
-</p>
+ 
 
 📊 GitHub Stats
 
