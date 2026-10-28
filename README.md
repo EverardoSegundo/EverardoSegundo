@@ -74,8 +74,7 @@ Backend & Languages
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=EverardoSegundo&bg_color=0D1117&color=58A6FF&line=FF4081&point=FFD43B&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
-
+ 
 </div>
 
 Explore my repositories to discover projects involving software development.
