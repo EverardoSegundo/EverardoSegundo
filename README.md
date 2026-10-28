@@ -46,12 +46,18 @@ Backend & Languages
 
 📊 GitHub Stats
 
-<div align="center">
+ <div align="center">
 
- 
+<a href="https://github.com/EverardoSegundo">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=EverardoSegundo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=39D5D8&include_all_commits=true" alt="EverardoSegundo's GitHub Stats"/>
+</a>
+<a href="https://github.com/EverardoSegundo">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EverardoSegundo&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most Used Languages"/>
+</a>
+
 <br/><br/>
 
- 
+<img width="75%" src="https://streak-stats.demolab.com/?user=EverardoSegundo&hide_border=true&background=161222&ring=FF4081&fire=FF4081&currStreakNum=FFD43B&sideNums=FF4081&currStreakLabel=FFD43B&sideLabels=FF4081&dates=9BE9F0" alt="GitHub Contribution Streak"/>
 
 <br/><br/>
 
