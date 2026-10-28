@@ -67,6 +67,10 @@ Backend & Languages
 <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=EverardoSegundo&bg_color=0D1117&color=58A6FF&line=FF4081&point=FFD43B&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
+
 </div>
 
 Explore my repositories to discover projects involving software development.
