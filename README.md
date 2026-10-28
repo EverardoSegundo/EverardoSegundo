@@ -1,5 +1,5 @@
  
- EverardoSegundo — GitHub Profile
+ Everardo Segundo — GitHub Profile
 
 <!-- HEADER: banner ondulado verde e amarelo -->
 
